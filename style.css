@@ -1,0 +1,17 @@
+.outer-image-container {
+  max-width: 500px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e4e4e4;
+  color: rgb(0, 0, 0);
+}
+
+#projects {
+  background-color: #e4e4e4;
+}
+
+section {
+  padding-top: 5rem;
+}
